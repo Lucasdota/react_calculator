@@ -1,4 +1,10 @@
-## A Front End Project
-Built in VS Code with the React framework Nextjs and TailwindCSS.
+## Calculator
 
-Link: [Website](https://react-calculator-git-master-lucasdota.vercel.app/)
+### A minimalist calculator built with Nextjs and TailwindCSS.
+
+Main features:
+
+- React and JS logic calculations done through states and functions
+- Number formatting
+
+Link: [Website](https://react-calculator-swart-xi.vercel.app)
